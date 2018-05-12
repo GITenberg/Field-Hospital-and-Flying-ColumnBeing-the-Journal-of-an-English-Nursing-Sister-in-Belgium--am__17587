@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '7476'
     url: http://www.gutenberg.org/2009/agents/7476
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17587#Field-Hospital-and-Flying-ColumnBeing-the-Journal-of-an-English-Nursing-Sister-in-Belgium--am_
 gutenberg_bookshelf:
 - Women's Travel Journals
 - World War I
